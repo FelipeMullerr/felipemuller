@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👋 Olá, eu sou o Felipe Muller!  <br><br>🎓 Estudante de Ciência da Computação <br><br>🚀 Em busca de desafios que me ajudem a crescer como desenvolvedor</p>
+<p align="left">👋 Olá, eu sou o Felipe Muller!  <br><br>🎓 Estudante de Ciência da Computação <br><br></p>
 
 ###
 
